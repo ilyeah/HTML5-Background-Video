@@ -23,7 +23,8 @@ And launch the plugin :
           "types": ["mp4","ogg","webm"],
           "preload": true,
           "autoplay": true,
-          "loop": true
+          "loop": true,
+          "mited": true
         });
       });
     </script>
